@@ -1,6 +1,8 @@
 ---
+layout: default
 title: SDN documentation
-layout: home
+nav_order: 1
+permalink: /
 ---
 This is SDN Documentation Homepage
 
